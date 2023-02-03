@@ -1,0 +1,15 @@
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\net6.0\DataStructuresLab.exe
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\net6.0\DataStructuresLab.deps.json
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\net6.0\DataStructuresLab.runtimeconfig.json
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\net6.0\DataStructuresLab.dll
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\bin\Debug\net6.0\DataStructuresLab.pdb
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.csproj.AssemblyReference.cache
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.AssemblyInfoInputs.cache
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.AssemblyInfo.cs
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.csproj.CoreCompileInputs.cache
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.dll
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\refint\DataStructuresLab.dll
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.pdb
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\DataStructuresLab.genruntimeconfig.cache
+C:\Users\jgarr\source\repos\DataStructuresLab\DataStructuresLab\obj\Debug\net6.0\ref\DataStructuresLab.dll
